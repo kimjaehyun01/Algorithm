@@ -1,3 +1,4 @@
+#chap1 이진탐색
 def BinarySearch(list, num):
     list.sort()
     low = 0
